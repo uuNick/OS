@@ -2,7 +2,7 @@ name: .NET CI
 
 on:
   push:
-    branches: [ main, master ]  # Следим за веткой master, где код
+    branches: [ main, master ] 
   pull_request:
     branches: [ main, master ]
 
