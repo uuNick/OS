@@ -1,0 +1,35 @@
+name: .NET CI
+
+on:
+  push:
+    branches: [ main, master ]  # Следим за веткой master, где код
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: master 
+    
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 8.0.x
+    
+    - name: Find and restore solution
+      working-directory: ./LAB_19
+      run: |
+        echo "Solution file: $(ls *.sln)"
+        dotnet restore LAB_19.sln
+    
+    - name: Build
+      working-directory: ./LAB_19
+      run: dotnet build LAB_19.sln --configuration Release --no-restore
+    
+    - name: Test
+      working-directory: ./LAB_19
+      run: dotnet test LAB_19.sln --no-build --verbosity normal
