@@ -1,0 +1,14 @@
+D:\University\OS_LAB\LAB_19_8\LAB_19\bin\Debug\net8.0\LAB_19.exe
+D:\University\OS_LAB\LAB_19_8\LAB_19\bin\Debug\net8.0\LAB_19.deps.json
+D:\University\OS_LAB\LAB_19_8\LAB_19\bin\Debug\net8.0\LAB_19.runtimeconfig.json
+D:\University\OS_LAB\LAB_19_8\LAB_19\bin\Debug\net8.0\LAB_19.dll
+D:\University\OS_LAB\LAB_19_8\LAB_19\bin\Debug\net8.0\LAB_19.pdb
+D:\University\OS_LAB\LAB_19_8\LAB_19\obj\Debug\net8.0\LAB_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OS_LAB\LAB_19_8\LAB_19\obj\Debug\net8.0\LAB_19.AssemblyInfoInputs.cache
+D:\University\OS_LAB\LAB_19_8\LAB_19\obj\Debug\net8.0\LAB_19.AssemblyInfo.cs
+D:\University\OS_LAB\LAB_19_8\LAB_19\obj\Debug\net8.0\LAB_19.csproj.CoreCompileInputs.cache
+D:\University\OS_LAB\LAB_19_8\LAB_19\obj\Debug\net8.0\LAB_19.dll
+D:\University\OS_LAB\LAB_19_8\LAB_19\obj\Debug\net8.0\refint\LAB_19.dll
+D:\University\OS_LAB\LAB_19_8\LAB_19\obj\Debug\net8.0\LAB_19.pdb
+D:\University\OS_LAB\LAB_19_8\LAB_19\obj\Debug\net8.0\LAB_19.genruntimeconfig.cache
+D:\University\OS_LAB\LAB_19_8\LAB_19\obj\Debug\net8.0\ref\LAB_19.dll
